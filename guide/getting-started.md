@@ -8,21 +8,7 @@ title: 快速开始
 
 ## 发布流程
 
-```
-
-```
-
-```language
-language
-```
-
-language
-
-```
-
-1. 在左侧编辑文档内容``
-```
-
+1. 在左侧编辑文档内容
 2. 填写标题和 slug
 3. 点击“发布到 GitBook”
 
@@ -30,7 +16,3 @@ language
 const message = 'publish to gitbook'
 console.log(message)
 ```
-
-# 一级标题
-
-## 诶级标题
