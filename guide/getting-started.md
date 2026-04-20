@@ -2,6 +2,35 @@
 title: 快速开始
 ---
 
-### 1、的付款的话就看
+# 快速开始
 
-#### 1.1 快递费的看法和
+这是一个用于发布到 GitBook 的 Markdown 文档示例。
+
+## 发布流程
+
+```
+
+```
+
+```language
+language
+```
+
+language
+
+```
+
+1. 在左侧编辑文档内容``
+```
+
+2. 填写标题和 slug
+3. 点击“发布到 GitBook”
+
+```ts
+const message = 'publish to gitbook'
+console.log(message)
+```
+
+# 一级标题
+
+## 诶级标题
